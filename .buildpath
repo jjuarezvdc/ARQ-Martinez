@@ -11,6 +11,16 @@
 			<attribute name="composer" value="vendor"/>
 		</attributes>
 	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/easycorp/easy-log-handler/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/monolog/monolog/src/Monolog">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/psr/cache/src">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
@@ -47,6 +57,11 @@
 		</attributes>
 	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/symfony/debug">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/debug-bundle">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
 		</attributes>
@@ -96,7 +111,27 @@
 			<attribute name="composer" value="vendor"/>
 		</attributes>
 	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/monolog-bridge">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/monolog-bundle">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/phpunit-bridge">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/symfony/polyfill-mbstring">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/polyfill-php72">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
 		</attributes>
@@ -106,7 +141,47 @@
 			<attribute name="composer" value="vendor"/>
 		</attributes>
 	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/stopwatch">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/twig-bridge">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/twig-bundle">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry excluding="Resources/functions/" kind="src" path="vendor/symfony/var-dumper">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/var-dumper/Resources/functions">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/web-profiler-bundle">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/symfony/yaml">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/twig/twig/lib">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/twig/twig/src">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
 		</attributes>
